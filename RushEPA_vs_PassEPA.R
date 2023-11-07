@@ -1,4 +1,4 @@
-##This is from Tej Seth. I appreciate him putting this out for me to learn off of!
+##This is from Tej Seth and can be found here: https://www.youtube.com/watch?v=r9SelUodNas
 install.packages("tidyverse")
 install.packages("nflfastR")
 install.packages("ggimage")
